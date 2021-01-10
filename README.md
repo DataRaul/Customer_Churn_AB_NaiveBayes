@@ -12,4 +12,5 @@ I have included CLV, sales and revenue analysis with cohorts being product and m
 
 ## * Notes:
 The probability concept used in markov chains can be seen in the graph below
-![Markov States](markov_states.jpeg)
+
+![Markov States and Transition Probability](markov_states.jpg)
