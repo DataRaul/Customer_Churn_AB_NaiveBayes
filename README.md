@@ -11,6 +11,7 @@ Ultimately the exercise is about creating a quick tool/prototype to help in the 
 I have included CLV, sales and revenue analysis with cohorts being product and market. Since Churn has to be understood within that context for every company to make use of it as a metric.
 
 ## * Notes:
-The probability concept used in markov chains can be seen in the graph below
+The probability concept used in markov chains can be seen in the graph below.
+It shows the buying behaviour of a customer and the probability of buying further items when starting the buying flow with a particular item.
 
 ![Markov States and Transition Probability](markov_states.jpg)
